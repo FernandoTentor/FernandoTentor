@@ -1,8 +1,9 @@
 - 👋 Hola, soy @FernandoTentor
 - 👀 Estoy interesado en Geoinformación
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Profesor de Sistems de Informacion Geográfica FCyT UADER
+- 💞️ Director del Centro Regional de Geomática CEREGEO 
+- [CEREGEO](https://ceregeo.github.io/Ceregeo/)  
+- 📫 ftentor@uader.edu.ar
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
