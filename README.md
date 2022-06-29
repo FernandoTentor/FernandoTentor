@@ -23,6 +23,17 @@
 - Virtual env. , Pip. JupyterLab.
 - Numpy, Pandas, Shapely, Geopandas, Rasterio, Rio-tiler, Pillow, Scipy, scikit-learn, scikit-image, Folium, boto3, psycopg2, mercantile, requests, pySTACK, and so on.....
 
+# Tecnologías
+- GDAL
+- Github
+- JIRA
+- Microservices
+- Google Earth Engine (Python & Node.js)
+- Qgis, ArcGis, SNAP, GRASS, SAGA, Agisoft Photoscan
+
+# Remote Sensing
+- Sentinel 2, Landsat(5-9), Sentinel 1 (SAR), Planet Scope, CBERS , MODIS, SAOCOM (SAR) , Sentinel 3, etc...
+
 # AWS
 - AWS Lambda Functions (Python3, Node.js).
 - DynamoDB
@@ -34,17 +45,6 @@
 - IAM, CloudWatch.
 - RDS (Postgis)
 
-# Others
-- GDAL
-- Github
-- JIRA
-- Microservices
-- Google Earth Engine (Python & Node.js)
-- Qgis, ArcGis, SNAP, GRASS, SAGA, Agisoft Photoscan
-
-
-# Remote Sensing
-- Sentinel 2, Landsat(5-8), Sentinel 1 (SAR), Planet Scope, CBERS , MODIS, SAOCOM (SAR) , Sentinel 3, etc...
 # Stats
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Fernigithub)](https://github.com/Fernigithub)
